@@ -1,7 +1,7 @@
 # Count to n and print each number
 n = int(input("Enter the value of n: "))
 def count_to_n(x = n):
-    for i in range(1, x + 1):
+    for i in range(1, x*11):
         print(i, end=' ')
     print()
 
