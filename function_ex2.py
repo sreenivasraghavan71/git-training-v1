@@ -23,3 +23,6 @@ for increment in range(0, 7):
     x, y = x*COS_theta - y*SIN_theta, x*SIN_theta + y*COS_theta
 
 print(" The program run successfully and there are no error.")
+print(" The program run successfully and there are no error1.")
+print(" The program run successfully and there are no error2.")
+print(" The program run successfully and there are no error3.")
