@@ -18,7 +18,7 @@ t.pencolor('blue') # Set pen color
 t.penup() # Left pen to move it
 t.setposition(0, 0) # Position the pen at coordinates (0, 0)
 t.pendown() # Set pen down to begin drawing
-for i in range(100):
+for i in range(10000):
     t.forward(distance)
     t.left(angle)
     distance += 0.5
