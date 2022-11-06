@@ -9,12 +9,12 @@ def count_to_n(n):
 # Use input function to get common value for both the 'for' and 'while' loops
 x = int(input("Enter the value of n between 10 to 20: "))
 
-for i in range(1, x):
+for i in range(1, x*2):
     count_to_n(i)
 n=x
 i=0
 while n >= i:
     count_to_n(n)
-    #print(n-i, end=' ')
+    print(n-i, end=' ')
     n = n - 1
 print()
