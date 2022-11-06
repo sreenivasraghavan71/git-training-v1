@@ -10,3 +10,4 @@ print("To Call this function using its name and assign the value of your choice:
 #x = double(3)
 #print(x)
 print("The program ran successfully")
+print("New addition in the techdev branch")

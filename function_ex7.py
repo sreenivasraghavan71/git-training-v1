@@ -24,3 +24,4 @@ for i in range(10000):
     distance += 0.5
 t.exitonclick() # Quit program when user clicks the mouse button
 ### The changes are adde to the end
+print("New addition in the techdev branch")

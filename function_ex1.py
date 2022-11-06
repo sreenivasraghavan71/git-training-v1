@@ -1,6 +1,7 @@
 #Here we are using one simple example to illustrate a function
 from random import randrange
 # Roll the die three times
+print("New addition in the techdev branch")
 for i in range(0, 1000):
 #Generate random number in the range 1...7
     value = randrange(1, 7)

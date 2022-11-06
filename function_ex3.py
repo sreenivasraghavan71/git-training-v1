@@ -17,3 +17,4 @@ for value in range(2, max_value*21):
 print() # Move cursor down to next line
 elapsed = perf_counter() - start_time # Stop the timer
 print("Count:", count, " Elapsed time:", elapsed, "sec")
+print("New addition in the techdev branch")
